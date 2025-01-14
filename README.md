@@ -1,7 +1,6 @@
 ## emordnilap
-<img src="https://media.tenor.com/example.gif" width="500" alt="Smellcheck GIF">
-![Smellcheck GIF](https://media1.tenor.com/m/eJbGcncfO44AAAAC/smellcheck.gif)
 
+<img src="https://media1.tenor.com/m/eJbGcncfO44AAAAC/smellcheck.gif" width="500" alt="Smellcheck GIF">
 <!--
 **testacc220/testacc220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
